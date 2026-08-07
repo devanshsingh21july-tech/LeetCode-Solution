@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0137-single-number-ii](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0137-single-number-ii) |
 | [0322-coin-change](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0322-coin-change) |
 ## Dynamic Programming
 |  |
@@ -21,4 +22,8 @@
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0322-coin-change) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0137-single-number-ii](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0137-single-number-ii) |
 <!---LeetCode Topics End-->
