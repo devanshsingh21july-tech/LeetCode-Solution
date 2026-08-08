@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0137-single-number-ii](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0137-single-number-ii) |
+| [0179-largest-number](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0179-largest-number) |
 | [0268-missing-number](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0268-missing-number) |
 | [0322-coin-change](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0322-coin-change) |
 ## Dynamic Programming
@@ -44,11 +45,13 @@
 ## Sorting
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0179-largest-number) |
 | [0268-missing-number](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0020-valid-parentheses) |
+| [0179-largest-number](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0179-largest-number) |
 ## Stack
 |  |
 | ------- |
@@ -57,4 +60,8 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0020-valid-parentheses) |
+## Greedy
+|  |
+| ------- |
+| [0179-largest-number](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0179-largest-number) |
 <!---LeetCode Topics End-->
