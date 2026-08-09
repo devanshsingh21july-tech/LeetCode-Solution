@@ -41,6 +41,7 @@
 | ------- |
 | [0066-plus-one](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0326-power-of-three) |
 | [2235-add-two-integers](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/2469-convert-the-temperature) |
 | [2652-sum-multiples](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/2652-sum-multiples) |
@@ -77,4 +78,8 @@
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0039-combination-sum) |
+## Recursion
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
