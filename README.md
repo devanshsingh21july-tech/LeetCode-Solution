@@ -58,6 +58,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0020-valid-parentheses) |
+| [0058-length-of-last-word](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0058-length-of-last-word) |
 | [0179-largest-number](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0179-largest-number) |
 | [1108-defanging-an-ip-address](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/1108-defanging-an-ip-address) |
 ## Stack
