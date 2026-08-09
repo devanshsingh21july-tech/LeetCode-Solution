@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0039-combination-sum) |
+| [0066-plus-one](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0066-plus-one) |
 | [0137-single-number-ii](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0137-single-number-ii) |
 | [0179-largest-number](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0179-largest-number) |
 | [0268-missing-number](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0268-missing-number) |
@@ -38,6 +39,7 @@
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0268-missing-number) |
 | [2235-add-two-integers](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/2469-convert-the-temperature) |
