@@ -32,6 +32,7 @@
 | ------- |
 | [0137-single-number-ii](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0137-single-number-ii) |
 | [0268-missing-number](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0342-power-of-four) |
 ## Hash Table
 |  |
 | ------- |
@@ -42,6 +43,7 @@
 | [0066-plus-one](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0342-power-of-four) |
 | [2235-add-two-integers](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/2469-convert-the-temperature) |
 | [2652-sum-multiples](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/2652-sum-multiples) |
@@ -82,4 +84,5 @@
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
