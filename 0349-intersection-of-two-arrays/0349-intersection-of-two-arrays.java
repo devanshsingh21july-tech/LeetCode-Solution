@@ -21,7 +21,8 @@ class Solution {
         int index = 0;
 
         for (int num : ans) {
-            result[index++] = num;
+            result[index] = num;
+            index++;
         }
 
         return result;
