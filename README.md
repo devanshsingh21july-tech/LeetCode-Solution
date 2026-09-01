@@ -10,6 +10,7 @@
 | [0137-single-number-ii](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0137-single-number-ii) |
 | [0169-majority-element](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0179-largest-number) |
+| [0217-contains-duplicate](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0268-missing-number) |
 | [0322-coin-change](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0322-coin-change) |
@@ -45,6 +46,7 @@
 | [0049-group-anagrams](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0202-happy-number) |
+| [0217-contains-duplicate](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0268-missing-number) |
@@ -73,6 +75,7 @@
 | [0049-group-anagrams](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0179-largest-number) |
+| [0217-contains-duplicate](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0268-missing-number) |
