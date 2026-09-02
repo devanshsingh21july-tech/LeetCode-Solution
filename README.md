@@ -52,6 +52,7 @@
 | [0229-majority-element-ii](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0268-missing-number) |
+| [0290-word-pattern](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0349-intersection-of-two-arrays) |
 | [0454-4sum-ii](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0454-4sum-ii) |
 ## Math
@@ -91,6 +92,7 @@
 | [0058-length-of-last-word](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0058-length-of-last-word) |
 | [0179-largest-number](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0290-word-pattern) |
 | [0332-reconstruct-itinerary](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0332-reconstruct-itinerary) |
 | [1108-defanging-an-ip-address](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/1108-defanging-an-ip-address) |
 ## Stack
