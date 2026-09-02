@@ -48,6 +48,7 @@
 | [0049-group-anagrams](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0202-happy-number) |
+| [0205-isomorphic-strings](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0242-valid-anagram) |
@@ -91,6 +92,7 @@
 | [0049-group-anagrams](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0058-length-of-last-word) |
 | [0179-largest-number](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0179-largest-number) |
+| [0205-isomorphic-strings](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0290-word-pattern) |
 | [0332-reconstruct-itinerary](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0332-reconstruct-itinerary) |
