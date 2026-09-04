@@ -20,6 +20,7 @@
 | [0454-4sum-ii](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0454-4sum-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0540-single-element-in-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1672-richest-customer-wealth](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/1672-richest-customer-wealth) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -179,4 +180,8 @@
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
