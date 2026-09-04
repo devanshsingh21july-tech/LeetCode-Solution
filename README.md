@@ -19,6 +19,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0349-intersection-of-two-arrays) |
 | [0454-4sum-ii](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0454-4sum-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0540-single-element-in-a-sorted-array) |
+| [0628-maximum-product-of-three-numbers](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1672-richest-customer-wealth](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/1672-richest-customer-wealth) |
 ## Dynamic Programming
@@ -68,6 +69,7 @@
 | [0268-missing-number](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0342-power-of-four) |
+| [0628-maximum-product-of-three-numbers](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [2235-add-two-integers](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/2469-convert-the-temperature) |
 | [2652-sum-multiples](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/2652-sum-multiples) |
@@ -89,6 +91,7 @@
 | [0268-missing-number](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0268-missing-number) |
 | [0332-reconstruct-itinerary](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0332-reconstruct-itinerary) |
 | [0349-intersection-of-two-arrays](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0349-intersection-of-two-arrays) |
+| [0628-maximum-product-of-three-numbers](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## String
 |  |
