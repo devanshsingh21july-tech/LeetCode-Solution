@@ -11,6 +11,7 @@
 | [0137-single-number-ii](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0137-single-number-ii) |
 | [0169-majority-element](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0179-largest-number) |
+| [0189-rotate-array](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0268-missing-number) |
@@ -66,6 +67,7 @@
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0066-plus-one) |
+| [0189-rotate-array](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0326-power-of-three) |
@@ -146,6 +148,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0349-intersection-of-two-arrays) |
 ## Depth-First Search
