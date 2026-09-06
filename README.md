@@ -24,6 +24,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1672-richest-customer-wealth](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/1672-richest-customer-wealth) |
+| [1991-find-the-middle-index-in-array](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/1991-find-the-middle-index-in-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -191,4 +192,8 @@
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/1672-richest-customer-wealth) |
+## Prefix Sum
+|  |
+| ------- |
+| [1991-find-the-middle-index-in-array](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/1991-find-the-middle-index-in-array) |
 <!---LeetCode Topics End-->
