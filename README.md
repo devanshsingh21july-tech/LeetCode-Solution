@@ -25,6 +25,7 @@
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1672-richest-customer-wealth](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/1672-richest-customer-wealth) |
 | [1991-find-the-middle-index-in-array](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/1991-find-the-middle-index-in-array) |
+| [2574-left-and-right-sum-differences](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/2574-left-and-right-sum-differences) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -196,4 +197,5 @@
 |  |
 | ------- |
 | [1991-find-the-middle-index-in-array](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/1991-find-the-middle-index-in-array) |
+| [2574-left-and-right-sum-differences](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/2574-left-and-right-sum-differences) |
 <!---LeetCode Topics End-->
