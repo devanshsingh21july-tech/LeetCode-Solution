@@ -2,10 +2,12 @@ import java.util.Arrays;
 
 class Solution {
     public int findClosestNumber(int[] nums) {
+
         Arrays.sort(nums);
         
         int left = 0;
         int right = nums.length - 1;
+    
         while (left <= right) {
             int mid = left + (right - left) / 2;
             
@@ -18,6 +20,7 @@ class Solution {
             }
         }
         
+
         if (left >= nums.length) return nums[right];
         if (right < 0) return nums[left];
         
