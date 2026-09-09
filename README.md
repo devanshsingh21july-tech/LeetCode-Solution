@@ -22,6 +22,7 @@
 | [0454-4sum-ii](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0454-4sum-ii) |
 | [0485-max-consecutive-ones](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0540-single-element-in-a-sorted-array) |
+| [0542-01-matrix](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0542-01-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0875-koko-eating-bananas) |
@@ -37,10 +38,12 @@
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0322-coin-change) |
+| [0542-01-matrix](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0542-01-matrix) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0322-coin-change) |
+| [0542-01-matrix](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0542-01-matrix) |
 ## Knapsack Problem
 |  |
 | ------- |
@@ -204,6 +207,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0542-01-matrix](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0542-01-matrix) |
 | [1672-richest-customer-wealth](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/1672-richest-customer-wealth) |
 ## Prefix Sum
 |  |
