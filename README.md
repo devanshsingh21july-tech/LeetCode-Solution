@@ -16,6 +16,7 @@
 | [0189-rotate-array](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0229-majority-element-ii) |
+| [0240-search-a-2d-matrix-ii](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0268-missing-number) |
 | [0322-coin-change](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0322-coin-change) |
 | [0332-reconstruct-itinerary](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0332-reconstruct-itinerary) |
@@ -93,6 +94,7 @@
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0162-find-peak-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0349-intersection-of-two-arrays) |
 | [0540-single-element-in-a-sorted-array](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0540-single-element-in-a-sorted-array) |
@@ -155,6 +157,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0169-majority-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0240-search-a-2d-matrix-ii) |
 ## Counting
 |  |
 | ------- |
@@ -212,6 +215,7 @@
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0059-spiral-matrix-ii) |
+| [0240-search-a-2d-matrix-ii](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0240-search-a-2d-matrix-ii) |
 | [0542-01-matrix](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0542-01-matrix) |
 | [1672-richest-customer-wealth](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/1672-richest-customer-wealth) |
 ## Prefix Sum
