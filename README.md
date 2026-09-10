@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0001-two-sum) |
 | [0039-combination-sum](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0039-combination-sum) |
 | [0049-group-anagrams](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0049-group-anagrams) |
+| [0059-spiral-matrix-ii](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0066-plus-one) |
 | [0137-single-number-ii](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0137-single-number-ii) |
 | [0162-find-peak-element](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0162-find-peak-element) |
@@ -207,6 +208,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0059-spiral-matrix-ii) |
 | [0542-01-matrix](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0542-01-matrix) |
 | [1672-richest-customer-wealth](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/1672-richest-customer-wealth) |
 ## Prefix Sum
@@ -218,5 +220,6 @@
 ## Simulation
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0059-spiral-matrix-ii) |
 | [3354-make-array-elements-equal-to-zero](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/3354-make-array-elements-equal-to-zero) |
 <!---LeetCode Topics End-->
