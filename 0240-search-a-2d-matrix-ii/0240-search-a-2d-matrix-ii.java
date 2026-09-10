@@ -6,19 +6,19 @@ class Solution {
         int rows = matrix.length;
         int cols = matrix[0].length;
 
-        int row = rows - 1; // Last row index (matrix.length - 1)
-        int col = 0;        // First column index
+        int row = rows - 1; 
+        int col = 0;       
 
-while (row >= 0 && col < cols) {
-    if (matrix[row][col] == target) {
-        return true;
-    } else if (matrix[row][col] > target) {
-        row--; // Upar jao (chote elements ki taraf)
-    } else {
-        col++; // Right jao (bade elements ki taraf)
-    }
-}
+        while (row >= 0 && col < cols) {
+            if (matrix[row][col] == target) {
+                return true;
+        } else if (matrix[row][col] > target) {
+                row--; 
+        } else {
+                col++;
+            }   
+        }
 
-return false;
+    return false;
     }
 }
