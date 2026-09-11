@@ -133,6 +133,7 @@
 | [0344-reverse-string](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0387-first-unique-character-in-a-string) |
 | [0402-remove-k-digits](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0402-remove-k-digits) |
+| [0680-valid-palindrome-ii](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0680-valid-palindrome-ii) |
 | [1108-defanging-an-ip-address](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/1108-defanging-an-ip-address) |
 ## Stack
 |  |
@@ -148,6 +149,7 @@
 | ------- |
 | [0179-largest-number](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0179-largest-number) |
 | [0402-remove-k-digits](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0402-remove-k-digits) |
+| [0680-valid-palindrome-ii](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0680-valid-palindrome-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -181,6 +183,7 @@
 | [0202-happy-number](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0349-intersection-of-two-arrays) |
+| [0680-valid-palindrome-ii](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0680-valid-palindrome-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0977-squares-of-a-sorted-array) |
 ## Depth-First Search
 |  |
