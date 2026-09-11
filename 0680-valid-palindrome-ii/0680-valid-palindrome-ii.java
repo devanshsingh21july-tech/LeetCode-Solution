@@ -3,9 +3,10 @@ class Solution {
         while(i<j){
             if(s.charAt(i)!=s.charAt(j)){
                 return false;
-            }
+            }else{
                 i=i+1;
                 j=j-1;
+            }
         }
             return true;
     }
