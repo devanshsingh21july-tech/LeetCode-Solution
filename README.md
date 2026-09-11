@@ -122,6 +122,7 @@
 | [0020-valid-parentheses](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0058-length-of-last-word) |
+| [0125-valid-palindrome](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0242-valid-anagram) |
@@ -172,6 +173,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0349-intersection-of-two-arrays) |
