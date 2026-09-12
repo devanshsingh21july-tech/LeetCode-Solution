@@ -66,6 +66,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0049-group-anagrams) |
+| [0160-intersection-of-two-linked-lists](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0205-isomorphic-strings) |
@@ -179,6 +180,7 @@
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0125-valid-palindrome) |
+| [0160-intersection-of-two-linked-lists](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0344-reverse-string) |
@@ -246,6 +248,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0160-intersection-of-two-linked-lists) |
 | [0707-design-linked-list](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0707-design-linked-list) |
 ## Design
 |  |
