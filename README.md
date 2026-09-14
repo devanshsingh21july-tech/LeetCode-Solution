@@ -140,6 +140,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0020-valid-parentheses) |
+| [0234-palindrome-linked-list](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0402-remove-k-digits) |
 ## Bracket Sequences
 |  |
@@ -160,6 +161,7 @@
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0342-power-of-four) |
 ## Divide and Conquer
@@ -185,6 +187,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0202-happy-number) |
+| [0234-palindrome-linked-list](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0349-intersection-of-two-arrays) |
 | [0680-valid-palindrome-ii](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0680-valid-palindrome-ii) |
@@ -254,6 +257,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0234-palindrome-linked-list) |
 | [0707-design-linked-list](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0707-design-linked-list) |
 ## Design
 |  |
