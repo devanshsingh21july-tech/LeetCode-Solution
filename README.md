@@ -108,6 +108,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0049-group-anagrams) |
+| [0148-sort-list](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0217-contains-duplicate) |
@@ -169,6 +170,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0240-search-a-2d-matrix-ii) |
 ## Counting
@@ -188,6 +190,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0125-valid-palindrome](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0125-valid-palindrome) |
 | [0143-reorder-list](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0202-happy-number) |
@@ -260,6 +263,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0143-reorder-list](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0206-reverse-linked-list) |
@@ -270,4 +274,8 @@
 |  |
 | ------- |
 | [0707-design-linked-list](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0707-design-linked-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
