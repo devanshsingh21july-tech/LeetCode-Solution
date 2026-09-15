@@ -66,6 +66,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0049-group-anagrams) |
+| [0142-linked-list-cycle-ii](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0202-happy-number) |
@@ -191,6 +192,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0061-rotate-list) |
 | [0125-valid-palindrome](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0125-valid-palindrome) |
+| [0142-linked-list-cycle-ii](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0160-intersection-of-two-linked-lists) |
@@ -228,6 +230,7 @@
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
+| [0142-linked-list-cycle-ii](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0202-happy-number) |
 ## Queue
 |  |
@@ -266,6 +269,7 @@
 | [0024-swap-nodes-in-pairs](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0024-swap-nodes-in-pairs) |
 | [0061-rotate-list](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0142-linked-list-cycle-ii](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0160-intersection-of-two-linked-lists) |
