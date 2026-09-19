@@ -205,6 +205,7 @@
 | [0344-reverse-string](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0349-intersection-of-two-arrays) |
 | [0680-valid-palindrome-ii](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0680-valid-palindrome-ii) |
+| [0876-middle-of-the-linked-list](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0977-squares-of-a-sorted-array) |
 ## Depth-First Search
 |  |
@@ -285,6 +286,7 @@
 | [0237-delete-node-in-a-linked-list](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0328-odd-even-linked-list) |
 | [0707-design-linked-list](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0707-design-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0876-middle-of-the-linked-list) |
 | [1669-merge-in-between-linked-lists](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/1669-merge-in-between-linked-lists) |
 ## Design
 |  |
