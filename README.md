@@ -262,6 +262,7 @@
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0059-spiral-matrix-ii) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/2181-merge-nodes-in-between-zeros) |
 | [3354-make-array-elements-equal-to-zero](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/3354-make-array-elements-equal-to-zero) |
 ## Monotonic Stack
 |  |
@@ -291,6 +292,7 @@
 | [1669-merge-in-between-linked-lists](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/1669-merge-in-between-linked-lists) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/2181-merge-nodes-in-between-zeros) |
 ## Design
 |  |
 | ------- |
