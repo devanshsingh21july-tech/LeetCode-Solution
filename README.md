@@ -9,6 +9,7 @@
 | [0049-group-anagrams](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0049-group-anagrams) |
 | [0059-spiral-matrix-ii](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0066-plus-one) |
+| [0079-word-search](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0079-word-search) |
 | [0137-single-number-ii](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0137-single-number-ii) |
 | [0162-find-peak-element](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0169-majority-element) |
@@ -127,6 +128,7 @@
 | [0020-valid-parentheses](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0058-length-of-last-word) |
+| [0079-word-search](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0205-isomorphic-strings) |
@@ -159,6 +161,7 @@
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0039-combination-sum) |
+| [0079-word-search](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0079-word-search) |
 ## Recursion
 |  |
 | ------- |
@@ -211,6 +214,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0079-word-search) |
 | [0332-reconstruct-itinerary](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0332-reconstruct-itinerary) |
 ## Graph Theory
 |  |
@@ -249,6 +253,7 @@
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0059-spiral-matrix-ii) |
+| [0079-word-search](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0240-search-a-2d-matrix-ii) |
 | [0542-01-matrix](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0542-01-matrix) |
 | [1672-richest-customer-wealth](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/1672-richest-customer-wealth) |
