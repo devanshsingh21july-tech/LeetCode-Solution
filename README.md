@@ -9,6 +9,7 @@
 | [0049-group-anagrams](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0049-group-anagrams) |
 | [0059-spiral-matrix-ii](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0066-plus-one) |
+| [0068-text-justification](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0068-text-justification) |
 | [0079-word-search](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0079-word-search) |
 | [0137-single-number-ii](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0137-single-number-ii) |
 | [0162-find-peak-element](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0162-find-peak-element) |
@@ -128,6 +129,7 @@
 | [0020-valid-parentheses](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0058-length-of-last-word) |
+| [0068-text-justification](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0068-text-justification) |
 | [0079-word-search](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0179-largest-number) |
@@ -267,6 +269,7 @@
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0059-spiral-matrix-ii) |
+| [0068-text-justification](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0068-text-justification) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/2181-merge-nodes-in-between-zeros) |
 | [3354-make-array-elements-equal-to-zero](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/3354-make-array-elements-equal-to-zero) |
 ## Monotonic Stack
