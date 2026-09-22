@@ -18,6 +18,7 @@
 | [0189-rotate-array](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0229-majority-element-ii) |
+| [0238-product-of-array-except-self](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0268-missing-number) |
 | [0322-coin-change](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0322-coin-change) |
@@ -262,6 +263,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0238-product-of-array-except-self) |
 | [1991-find-the-middle-index-in-array](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/1991-find-the-middle-index-in-array) |
 | [2574-left-and-right-sum-differences](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/2574-left-and-right-sum-differences) |
 | [3354-make-array-elements-equal-to-zero](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/3354-make-array-elements-equal-to-zero) |
