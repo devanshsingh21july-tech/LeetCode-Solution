@@ -82,6 +82,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0387-first-unique-character-in-a-string) |
 | [0454-4sum-ii](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0454-4sum-ii) |
+| [0567-permutation-in-string](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0567-permutation-in-string) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Math
 |  |
@@ -142,6 +143,7 @@
 | [0344-reverse-string](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0387-first-unique-character-in-a-string) |
 | [0402-remove-k-digits](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0402-remove-k-digits) |
+| [0567-permutation-in-string](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0680-valid-palindrome-ii) |
 | [1108-defanging-an-ip-address](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/1108-defanging-an-ip-address) |
 ## Stack
@@ -212,6 +214,7 @@
 | [0234-palindrome-linked-list](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0349-intersection-of-two-arrays) |
+| [0567-permutation-in-string](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0680-valid-palindrome-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0977-squares-of-a-sorted-array) |
@@ -313,4 +316,8 @@
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0148-sort-list) |
+## Sliding Window
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
