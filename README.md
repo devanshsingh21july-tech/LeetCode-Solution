@@ -146,6 +146,7 @@
 | [0567-permutation-in-string](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0680-valid-palindrome-ii) |
 | [1108-defanging-an-ip-address](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/1108-defanging-an-ip-address) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Stack
 |  |
 | ------- |
@@ -153,6 +154,7 @@
 | [0143-reorder-list](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0402-remove-k-digits) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -277,6 +279,7 @@
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0059-spiral-matrix-ii) |
 | [0068-text-justification](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0068-text-justification) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/2181-merge-nodes-in-between-zeros) |
 | [3354-make-array-elements-equal-to-zero](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/3354-make-array-elements-equal-to-zero) |
 ## Monotonic Stack
