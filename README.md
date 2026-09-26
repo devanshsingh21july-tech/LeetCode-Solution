@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0001-two-sum) |
+| [0037-sudoku-solver](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0039-combination-sum) |
 | [0049-group-anagrams](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0049-group-anagrams) |
 | [0059-spiral-matrix-ii](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0059-spiral-matrix-ii) |
@@ -70,6 +71,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0001-two-sum) |
+| [0037-sudoku-solver](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0049-group-anagrams) |
 | [0142-linked-list-cycle-ii](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0160-intersection-of-two-linked-lists) |
@@ -171,6 +173,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0039-combination-sum) |
 | [0079-word-search](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0079-word-search) |
 ## Recursion
@@ -265,6 +268,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0037-sudoku-solver) |
 | [0059-spiral-matrix-ii](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0059-spiral-matrix-ii) |
 | [0079-word-search](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0240-search-a-2d-matrix-ii) |
@@ -346,4 +350,12 @@
 |  |
 | ------- |
 | [1392-longest-happy-prefix](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/1392-longest-happy-prefix) |
+## Algorithm X
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0037-sudoku-solver) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
