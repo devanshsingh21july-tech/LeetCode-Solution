@@ -11,6 +11,7 @@
 | [0066-plus-one](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0068-text-justification) |
 | [0079-word-search](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0079-word-search) |
+| [0136-single-number](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0137-single-number-ii) |
 | [0162-find-peak-element](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0169-majority-element) |
@@ -61,6 +62,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0137-single-number-ii) |
 | [0268-missing-number](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0342-power-of-four) |
