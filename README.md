@@ -43,6 +43,7 @@
 | [1991-find-the-middle-index-in-array](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/1991-find-the-middle-index-in-array) |
 | [2239-find-closest-number-to-zero](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/2239-find-closest-number-to-zero) |
 | [2574-left-and-right-sum-differences](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/2574-left-and-right-sum-differences) |
+| [2965-find-missing-and-repeated-values](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/2965-find-missing-and-repeated-values) |
 | [3354-make-array-elements-equal-to-zero](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/3354-make-array-elements-equal-to-zero) |
 ## Dynamic Programming
 |  |
@@ -91,6 +92,7 @@
 | [0454-4sum-ii](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0454-4sum-ii) |
 | [0567-permutation-in-string](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0567-permutation-in-string) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2965-find-missing-and-repeated-values](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/2965-find-missing-and-repeated-values) |
 ## Math
 |  |
 | ------- |
@@ -105,6 +107,7 @@
 | [2235-add-two-integers](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/2469-convert-the-temperature) |
 | [2652-sum-multiples](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/2652-sum-multiples) |
+| [2965-find-missing-and-repeated-values](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/2965-find-missing-and-repeated-values) |
 ## Binary Search
 |  |
 | ------- |
@@ -281,6 +284,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0240-search-a-2d-matrix-ii) |
 | [0542-01-matrix](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0542-01-matrix) |
 | [1672-richest-customer-wealth](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/1672-richest-customer-wealth) |
+| [2965-find-missing-and-repeated-values](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/2965-find-missing-and-repeated-values) |
 ## Prefix Sum
 |  |
 | ------- |
