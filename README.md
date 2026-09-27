@@ -11,6 +11,7 @@
 | [0059-spiral-matrix-ii](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0068-text-justification) |
+| [0075-sort-colors](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0079-word-search) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0136-single-number) |
@@ -120,6 +121,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0179-largest-number) |
@@ -213,6 +215,7 @@
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0086-partition-list) |
 | [0125-valid-palindrome](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0125-valid-palindrome) |
@@ -362,4 +365,12 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0037-sudoku-solver) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
