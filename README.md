@@ -30,6 +30,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0349-intersection-of-two-arrays) |
 | [0454-4sum-ii](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0454-4sum-ii) |
 | [0485-max-consecutive-ones](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0542-01-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0628-maximum-product-of-three-numbers) |
@@ -90,6 +91,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0387-first-unique-character-in-a-string) |
 | [0454-4sum-ii](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0454-4sum-ii) |
+| [0496-next-greater-element-i](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0567-permutation-in-string) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/2965-find-missing-and-repeated-values) |
@@ -167,6 +169,7 @@
 | [0143-reorder-list](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0402-remove-k-digits) |
+| [0496-next-greater-element-i](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0496-next-greater-element-i) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Bracket Sequences
 |  |
@@ -304,6 +307,7 @@
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0402-remove-k-digits) |
+| [0496-next-greater-element-i](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0496-next-greater-element-i) |
 ## Linked List
 |  |
 | ------- |
