@@ -79,6 +79,7 @@
 | [0037-sudoku-solver](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0049-group-anagrams) |
 | [0142-linked-list-cycle-ii](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0202-happy-number) |
@@ -321,6 +322,7 @@
 | [0086-partition-list](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0086-partition-list) |
 | [0142-linked-list-cycle-ii](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0143-reorder-list) |
+| [0146-lru-cache](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0146-lru-cache) |
 | [0148-sort-list](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0203-remove-linked-list-elements) |
@@ -337,6 +339,7 @@
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0155-min-stack) |
 | [0707-design-linked-list](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0707-design-linked-list) |
 ## Merge Sort
@@ -383,4 +386,8 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0075-sort-colors) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
