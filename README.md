@@ -57,6 +57,7 @@
 | ------- |
 | [0322-coin-change](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0542-01-matrix) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Knapsack Problem
 |  |
 | ------- |
@@ -248,6 +249,7 @@
 | ------- |
 | [0079-word-search](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0079-word-search) |
 | [0332-reconstruct-itinerary](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0332-reconstruct-itinerary) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Graph Theory
 |  |
 | ------- |
@@ -397,4 +399,16 @@
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0901-online-stock-span) |
+## Tree
+|  |
+| ------- |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0783-minimum-distance-between-bst-nodes) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0783-minimum-distance-between-bst-nodes) |
+## Binary Tree
+|  |
+| ------- |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0783-minimum-distance-between-bst-nodes) |
 <!---LeetCode Topics End-->
