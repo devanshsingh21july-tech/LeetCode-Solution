@@ -1,0 +1,25 @@
+class Solution {
+    private Integer prev = null;
+    private int minDiff = Integer.MAX_VALUE;
+
+    public int minDiffInBST(TreeNode root) {
+        inOrder(root);
+        return minDiff;
+    }
+
+    private void inOrder(TreeNode node) {
+        if (node == null) return;
+
+        // Traverse left subtree
+        inOrder(node.left);
+
+        // Process current node
+        if (prev != null) {
+            minDiff = Math.min(minDiff, node.val - prev);
+        }
+        prev = node.val;
+
+        // Traverse right subtree
+        inOrder(node.right);
+    }
+}
