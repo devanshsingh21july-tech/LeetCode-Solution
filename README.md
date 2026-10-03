@@ -169,6 +169,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0143-reorder-list) |
+| [0145-binary-tree-postorder-traversal](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0402-remove-k-digits) |
@@ -248,6 +249,7 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0079-word-search) |
+| [0145-binary-tree-postorder-traversal](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0145-binary-tree-postorder-traversal) |
 | [0332-reconstruct-itinerary](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0332-reconstruct-itinerary) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Graph Theory
@@ -402,6 +404,7 @@
 ## Tree
 |  |
 | ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0145-binary-tree-postorder-traversal) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Binary Search Tree
 |  |
@@ -410,5 +413,6 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0145-binary-tree-postorder-traversal) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0783-minimum-distance-between-bst-nodes) |
 <!---LeetCode Topics End-->
