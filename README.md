@@ -58,6 +58,7 @@
 | [0322-coin-change](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0542-01-matrix) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Knapsack Problem
 |  |
 | ------- |
@@ -252,6 +253,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0145-binary-tree-postorder-traversal) |
 | [0332-reconstruct-itinerary](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0332-reconstruct-itinerary) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Graph Theory
 |  |
 | ------- |
@@ -406,6 +408,7 @@
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0145-binary-tree-postorder-traversal) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -415,4 +418,5 @@
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0145-binary-tree-postorder-traversal) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 <!---LeetCode Topics End-->
