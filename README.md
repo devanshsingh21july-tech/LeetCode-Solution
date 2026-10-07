@@ -55,6 +55,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0101-symmetric-tree) |
 | [0322-coin-change](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0542-01-matrix) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0783-minimum-distance-between-bst-nodes) |
@@ -252,6 +253,7 @@
 | ------- |
 | [0079-word-search](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0094-binary-tree-inorder-traversal) |
+| [0101-symmetric-tree](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0101-symmetric-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0145-binary-tree-postorder-traversal) |
 | [0332-reconstruct-itinerary](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0332-reconstruct-itinerary) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0783-minimum-distance-between-bst-nodes) |
@@ -410,6 +412,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0094-binary-tree-inorder-traversal) |
+| [0101-symmetric-tree](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0101-symmetric-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0145-binary-tree-postorder-traversal) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
@@ -423,6 +426,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0094-binary-tree-inorder-traversal) |
+| [0101-symmetric-tree](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0101-symmetric-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0145-binary-tree-postorder-traversal) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
