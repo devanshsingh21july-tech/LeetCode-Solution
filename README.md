@@ -30,6 +30,7 @@
 | [0332-reconstruct-itinerary](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0332-reconstruct-itinerary) |
 | [0349-intersection-of-two-arrays](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0349-intersection-of-two-arrays) |
 | [0454-4sum-ii](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0454-4sum-ii) |
+| [0455-assign-cookies](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0540-single-element-in-a-sorted-array) |
@@ -145,6 +146,7 @@
 | [0268-missing-number](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0268-missing-number) |
 | [0332-reconstruct-itinerary](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0332-reconstruct-itinerary) |
 | [0349-intersection-of-two-arrays](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0349-intersection-of-two-arrays) |
+| [0455-assign-cookies](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -193,6 +195,7 @@
 | ------- |
 | [0179-largest-number](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0179-largest-number) |
 | [0402-remove-k-digits](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0402-remove-k-digits) |
+| [0455-assign-cookies](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0680-valid-palindrome-ii) |
 ## Backtracking
 |  |
@@ -249,6 +252,7 @@
 | [0234-palindrome-linked-list](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0349-intersection-of-two-arrays) |
+| [0455-assign-cookies](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0680-valid-palindrome-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0876-middle-of-the-linked-list) |
@@ -402,6 +406,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0075-sort-colors) |
+| [0455-assign-cookies](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0455-assign-cookies) |
 ## Bubble Sort
 |  |
 | ------- |
