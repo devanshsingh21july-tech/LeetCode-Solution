@@ -36,6 +36,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0542-01-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0628-maximum-product-of-three-numbers) |
+| [0646-maximum-length-of-pair-chain](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0646-maximum-length-of-pair-chain) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0875-koko-eating-bananas) |
 | [0977-squares-of-a-sorted-array](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0977-squares-of-a-sorted-array) |
@@ -55,6 +56,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0322-coin-change](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0542-01-matrix) |
+| [0646-maximum-length-of-pair-chain](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0646-maximum-length-of-pair-chain) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -148,6 +150,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0628-maximum-product-of-three-numbers) |
+| [0646-maximum-length-of-pair-chain](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0646-maximum-length-of-pair-chain) |
 | [0977-squares-of-a-sorted-array](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## String
@@ -196,6 +199,7 @@
 | [0179-largest-number](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0179-largest-number) |
 | [0402-remove-k-digits](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0455-assign-cookies) |
+| [0646-maximum-length-of-pair-chain](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0646-maximum-length-of-pair-chain) |
 | [0680-valid-palindrome-ii](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0680-valid-palindrome-ii) |
 ## Backtracking
 |  |
@@ -442,4 +446,8 @@
 | [0783-minimum-distance-between-bst-nodes](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0646-maximum-length-of-pair-chain](https://github.com/devanshsingh21july-tech/LeetCode-Solution/tree/master/0646-maximum-length-of-pair-chain) |
 <!---LeetCode Topics End-->
